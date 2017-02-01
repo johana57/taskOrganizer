@@ -31,9 +31,8 @@
   <body class='main page'>
     <div class='navbar navbar-default' id='navbar'> <!-- Navbar -->
        <a class='navbar-brand' href='dashboard.php'>
-         <i class='icon-beer'></i>
-         Task Organizer
-       </a>
+            Task Organizer <img src="assets/images/list.png" style="max-width: 7%"/>
+        </a>
        <ul class='nav navbar-nav pull-right'>
             <li class='dropdown user'>
               <a class='dropdown-toggle' data-toggle='dropdown' href='#'>
